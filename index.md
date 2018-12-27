@@ -1,4 +1,4 @@
-# Tanay Agrawal
+## Tanay Agrawal
 
 I am a fourth year staudent at BITS Pilani, Pilani campus, India pursuing a dual degree course in B.E.(Hons) Electronics and Instrumentation and M.Sc.(Hons) Mathematics. I'm passionate about solving problems using computers, data and mathematics.
 
